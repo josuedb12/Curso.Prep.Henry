@@ -11,7 +11,7 @@
   </tr>
 </table>
 
-## Primeros Pasos Para aprender
+## Primeros Pasos 
 
 ### Preparando tu compu:
 
